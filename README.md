@@ -29,3 +29,16 @@
 │ Operating System │
 │ (Keyboard / Media) │
 └────────────────────┘
+#workflow
+
+[Unity Button Click]
+↓
+Send Command String
+↓
+Bluetooth Serial Channel
+↓
+PC Listener Receives Command
+↓
+Command Mapped to OS Action
+↓
+System Executes Action
