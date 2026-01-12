@@ -1,5 +1,6 @@
 # Mobile2PC-Remote
-
+Structured Design 
+-Unity - Bluetooth - Listener - OS manipulation
 ┌────────────────────┐
 │ Unity Mobile App │
 │ (Android) │
@@ -29,6 +30,7 @@
 │ Operating System │
 │ (Keyboard / Media) │
 └────────────────────┘
+
 #workflow
 
 [Unity Button Click]
